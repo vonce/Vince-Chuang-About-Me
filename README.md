@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/vonce/Vince-Chuang-About-Me/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+(https://lh3.googleusercontent.com/-mSiVKP43f6o/Uq-Hs9L0sOI/AAAAAAAAATs/IfOa3pUocIYa5LpWc6n_PzKlqoFGOBw6wCEwYBhgL/w140-h140-p/1236266_548208325251014_1936343853_n%2B%25281%2529.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a Data Scientist/Engineer who enjoys solving problems with data sets, and building tools and algorithms to process and utilize given data to the fullest. With a background in physics and stand-up comedy, I approach new problems scientifically and creatively and have a good sense of humor in face of failure.
 
-### Markdown
+### Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[6-Max-Mackerel: Poker Bot](https://vonce.github.io/6-Max-Mackerel/)
 
-```markdown
-Syntax highlighted code block
+[Automatons: Unity Game](https://vonce.github.io/Automatons-0.2/)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vonce/Vince-Chuang-About-Me/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Stand-up](https://youtu.be/MDH4zXgZh-A)

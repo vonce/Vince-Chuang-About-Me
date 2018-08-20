@@ -10,8 +10,6 @@ I am a Data Scientist/Engineer who enjoys solving problems with data sets, and b
 
 [Automatons: Unity Game](https://vonce.github.io/Automatons-1.0/)
 
-[Stand-up](https://youtu.be/MDH4zXgZh-A)
-
 ### Links
 
 [Linked-in](https://www.linkedin.com/in/vincent-chuang-aa938b77/)

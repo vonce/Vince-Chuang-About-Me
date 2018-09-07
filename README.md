@@ -8,6 +8,8 @@ I am an Data Scientist/Engineer with experience in Java, C#/unity, and Python. I
 
 [6-Max-Mackerel: Poker Bot](https://vonce.github.io/6-Max-Mackerel/)
 
+[Flounder: Poker Calculator](https://vonce.github.io/Flounder/)
+
 [Automatons: Unity Game](https://vonce.github.io/Automatons-1.0/)
 
 ### Links

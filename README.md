@@ -14,6 +14,4 @@ I am an Data Scientist/Engineer with experience in Java, C#/unity, and Python. I
 
 ### Links
 
-[Linked-in](https://www.linkedin.com/in/vincent-chuang-aa938b77/)
-
 [Github](https://github.com/vonce/)
